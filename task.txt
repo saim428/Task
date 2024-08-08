@@ -1,0 +1,19 @@
+Task
+Create a class hierarchy representing different types of vehicles. 
+The hierarchy should include at least three classes: Vehicle, Car, and Motorcycle.
+Vehicle class:
+Properties: make, model, year, color
+Methods: start(), stop(), getDetails()
+Car class:
+Inherits from Vehicle
+Additional properties: numberOfDoors, engineType
+Additional methods: openDoor(), closeDoor()
+Motorcycle class:
+Inherits from Vehicle
+Additional properties: engineType, hasSidecar
+Additional methods: startEngine(), stopEngine()
+Requirements:
+Demonstrate inheritance and polymorphism.
+Use appropriate data types and access modifiers.
+Implement methods to showcase object behavior.
+Consider potential enhancements or additional features.
